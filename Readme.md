@@ -208,6 +208,27 @@ Controls object spawning and spawn point occupancy.
 
 ---
 
+
+## Demo Video
+
+🎥 Project Demo Video:
+
+PASTE_YOUR_VIDEO_LINK_HERE
+
+---
+
+## Overview
+
+This project implements a reusable VR throwing system using Unity XR Interaction Toolkit.
+
+The system allows any Rigidbody object to become throwable using a single reusable Throwable component.
+
+Implemented objects:
+- Ball
+- Cube
+- Dart
+
+
 ## Author
 
 Ravi Gautam
